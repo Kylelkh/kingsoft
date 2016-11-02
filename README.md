@@ -1,5 +1,3 @@
-# kingsoft
-kingsoft 朋友圈项目实现
 
 #设计一个简单“朋友圈”
     场景a：
